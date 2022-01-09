@@ -3,9 +3,9 @@
 #Check it out on
 https://shopifyfrontendchallenge.herokuapp.com/
 
-I have implemented below features
-Save likes if the user leaves or reloads the page.\
-Add a loading state while we wait for NASA’s API to return data
+## I have implemented below features.
+  Save likes if the user leaves or reloads the page.\
+  Add a loading state while we wait for NASA’s API to return data
 
 
 In the project directory, you can run:
