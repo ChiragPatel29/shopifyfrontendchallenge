@@ -1,12 +1,16 @@
-# Getting Started with Create React App
+# Shopify Front End Developer Intern Challenge - Summer 2022
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Check it out on
+https://shopifyfrontendchallenge.herokuapp.com/
 
-## Available Scripts
+I have implemented below features
+Save likes if the user leaves or reloads the page.\
+Add a loading state while we wait for NASA’s API to return data
+
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` to run 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
